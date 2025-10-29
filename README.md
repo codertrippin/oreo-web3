@@ -87,5 +87,3 @@ You can view the verified contract and transactions on **Blockscout** using the 
 git clone https://github.com/your-username/oreo-result-system.git
 cd oreo-result-system
 
-
-<img width="1914" height="1073" alt="Screenshot 2025-10-29 135423" src="https://github.com/user-attachments/assets/4ef959b8-d3df-463a-818d-9141f2a5b0d4" />
