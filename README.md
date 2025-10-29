@@ -80,7 +80,7 @@ You can view the verified contract and transactions on **Blockscout** using the 
 
 ---
 
-##🧠 Made with ❤️ - Tripti Mondal (CSE Undergrad @GCELT'29)
+## 🧠 Made with ❤️ - Tripti Mondal (CSE Undergrad @GCELT'29)
 
 ## 🚀 Getting Started
 
