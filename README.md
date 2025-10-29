@@ -2,6 +2,7 @@
 *A Solidity smart contract for transparent, tamper-proof academic result verification.*
 
 ---
+<img width="1914" height="1073" alt="Screenshot 2025-10-29 135423" src="https://github.com/user-attachments/assets/649b7e66-2680-4754-b07a-1387470914fe" />
 
 ## 📖 Project Description
 
